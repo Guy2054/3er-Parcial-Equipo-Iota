@@ -1,6 +1,6 @@
-# 3er-Parcial-Equipo-Iota
-**Plataforma probada:** _Windows_
-**Resolución de pantalla usada:** _1920x1080_
+# 3er-Parcial-Equipo-Iota \n
+**Plataforma probada:** _Windows_ \n
+**Resolución de pantalla usada:** _1920x1080_ \n
 **Coordenadas manuales usadas:** 622,516
 **Integrantes y contribuciones:**
 1. Ian: _Arreglo el código original para hacerlo funcional y lo separo en módulos_
