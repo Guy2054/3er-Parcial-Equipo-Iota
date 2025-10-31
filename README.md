@@ -12,3 +12,5 @@
 3. Simón: _Fue quien dio la idea de como organizarse, uso el ejecutable para responder el forms, modifico el código para que funcionara en su computadora, se encargo de la documentación, esta escribiendo esto y no vio que le faltaba instalar OpenCSV._
 
 **Comandos de PowerShell utilizados:** Get-date
+
+**Notas:** _Se usan dos imagenes para localizar unas dos cosas, si no estan descargadas  y en la misma carpeta donde se ejecuta esto no va a funcionar, ademas, accidentalmente en una de las pruebas se envio el forms, por lo que hay dos forms, por lo que debería haber dos que contestamos_
