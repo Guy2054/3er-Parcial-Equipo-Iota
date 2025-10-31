@@ -13,4 +13,4 @@
 
 **Comandos de PowerShell utilizados:** Get-date
 
-**Notas:** _Accidentalmente en una de las pruebas se envio el forms, por lo que hay dos forms, por lo que debería haber dos que contestamos_
+**Notas:** _Accidentalmente en una de las pruebas se envio el forms, por lo que hay dos forms, por lo que debería haber dos que contestamos, ademas, el código orginal ocupa de dos imagenes para ubicarse._
